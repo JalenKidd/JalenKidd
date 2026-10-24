@@ -1,4 +1,4 @@
-# JalenTechHub.github.io
+# JalenKidd.github.io
 Welcome to my portfolio!
 
 This site highlights my achievements in cybersecurity, computer science, and software engineering. It’s a place for you to discover my projects, abilities, and advancements as I pursue a career in these areas.
